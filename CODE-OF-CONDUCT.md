@@ -1,29 +1,96 @@
-PREAMBLE
+Contributor Covenant Code of Conduct
+Our Pledge
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
+Our Standards
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-The short version of the code summarizes aspirations at a high level of the abstraction; the clauses that are included in the full version give examples and details of how these aspirations change the way we act as software engineering professionals. Without the aspirations, the details can become legalistic and tedious; without the details, the aspirations can become high sounding but empty; together, the aspirations and the details form a cohesive code.
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes,
+and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the
+overall community
 
-Software engineers shall commit themselves to making the analysis, specification, design, development, testing and maintenance of software a beneficial and respected profession. In accordance with their commitment to the health, safety and welfare of the public, software engineers shall adhere to the following Eight Principles:
+Examples of unacceptable behavior include:
 
-1. PUBLIC – Software engineers shall act consistently with the public interest.
+* The use of sexualized language or imagery, and sexual attention or
+advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others’ private information, such as a physical or email
+address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+professional setting
 
-2. CLIENT AND EMPLOYER – Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.
-
-3. PRODUCT – Software engineers shall ensure that their products and related modifications meet the highest professional standards possible.
-
-4. JUDGMENT – Software engineers shall maintain integrity and independence in their professional judgment.
-
-5. MANAGEMENT – Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintenance.
-
-6. PROFESSION – Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.
-
-7. COLLEAGUES – Software engineers shall be fair to and supportive of their colleagues.
-
-8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
-
-This Code was developed by the ACM/IEEE-CS joint task force on Software Engineering Ethics and Professional Practices (SEEPP):
-
-Executive Committee: Donald Gotterbarn (Chair), Keith Miller and Simon Rogerson;
-
-Members: Steve Barber, Peter Barnes, Ilene Burnstein, Michael Davis, Amr El-Kadi, N. Ben Fairweather, Milton Fulghum, N. Jayaram, Tom Jewett, Mark Kanko, Ernie Kallman, Duncan Langford, Joyce Currie Little, Ed Mechler, Manuel J. Norman, Douglas Phillips, Peter Ron Prinzivalli, Patrick Sullivan, John Weckert, Vivian Weil, S. Weisband and Laurie Honour Werth.
-
-This Code may be published without permission as long as it is not changed in any way and it carries the copyright notice. Copyright (c) 1999 by the Association for Computing Machinery, Inc. and the Institute for Electrical and Electronics Engineers, Inc.
+Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
+Scope
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
+Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+University of Pittsburgh.
+All complaints will be reviewed and investigated promptly and fairly.
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
+Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
+1. Correction
+Community Impact: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
+Consequence: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
+2. Warning
+Community Impact: A violation through a single incident or series
+of actions.
+Consequence: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.
+3. Temporary Ban
+Community Impact: A serious violation of community standards, including
+sustained inappropriate behavior.
+Consequence: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
+4. Permanent Ban
+Community Impact: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+Consequence: A permanent ban from any sort of public interaction within
+the community.
+Attribution
+This Code of Conduct is adapted from the Contributor Covenant,
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Community Impact Guidelines were inspired by Mozilla’s code of conduct
+enforcement ladder.
+For answers to common questions about this code of conduct, see the FAQ at
+https://www.contributor-covenant.org/faq. Translations are available at
+https://www.contributor-covenant.org/translations.
